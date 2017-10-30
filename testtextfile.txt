@@ -1,1 +1,1 @@
-asdfasdf
+This is a test file for Git on this new computer.
